@@ -6,3 +6,4 @@
 - 💞️ I’m looking to collaborate on Data Mining and Web developement more so UI/UX design.
 - 📫 Reach me at my email mistidevs@gmail.com. I eagerly respond. :).
 - 🧠 I am also a philospher who seeks to understand things deeply such that a child can understand what I speak.
+- 🔒 Currently working on private repositories for county, national and multinational entities in Kenya.
